@@ -7,6 +7,14 @@ body{
     background-color: hsl(0, 0%, 90%);
 }
 
+#title{
+    color: white;
+    text-align: center;
+    margin: 20px 0;
+    font-size: 2rem;
+    font-family: Arial, sans-serif;
+}
+
 #calculator{
     font-family: Arial, sans-serif;
     background-color: hsl(0, 0%, 15%);
